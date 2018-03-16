@@ -1,0 +1,39 @@
+
+#bg{
+	background: url(../img/banner.jpg);
+}
+/*****************************button 02*****************************/
+div.button02{
+	
+	color: #333;
+	font-size: 12px;
+	line-height: 1.64;
+	margin:0 auto ;
+}
+.box {
+	text-decoration:none;
+	background: #1c1c1c;
+	color: #0099ff;
+	cursor: pointer;
+	display: block;
+	margin: 40px auto;
+	padding: 20px;
+	text-align: center;
+	width: 150px;
+	transition:all 1s ease-out;
+	-webkit-transition: -webkit-box-shadow 0.5s ease-out;
+	-moz-transition: -moz-box-shadow 0.5s ease-out;
+	-o-transition: box-shadow 0.5s ease-out;
+}
+.box:hover {
+	text-decoration:none;
+	-moz-box-shadow: 0px 0px 15px #0099ff;
+	-webkit-box-shadow: 0px 0px 15px #0099ff;
+	 box-shadow: 0px 0px 15px #0099ff;
+}
+a:hover {
+	text-decoration:none;
+	color: #0088CC;
+	text-decoration: underline;
+}	
+/*********************************end  button02***********************/
